@@ -52,7 +52,7 @@
             // 
             // txtnum1
             // 
-            this.txtnum1.Location = new System.Drawing.Point(82, 37);
+            this.txtnum1.Location = new System.Drawing.Point(98, 37);
             this.txtnum1.Name = "txtnum1";
             this.txtnum1.Size = new System.Drawing.Size(100, 20);
             this.txtnum1.TabIndex = 1;

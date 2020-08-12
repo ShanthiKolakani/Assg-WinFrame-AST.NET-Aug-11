@@ -26,6 +26,10 @@ namespace WinAssg
 
         private void button2_Click(object sender, EventArgs e)
         {
+            obj = new ArthmOpp();
+            obj.num1 = Convert.ToInt32(txtnum1.Text);
+            obj.num2 = Convert.ToInt32(txtnum2.Text);
+            lblResult.Text = obj.Subtract().ToString();
 
         }
 
@@ -33,26 +37,34 @@ namespace WinAssg
         {
             obj = new ArthmOpp();
             obj.num1 = Convert.ToInt32(txtnum1.Text);
-            lblnum1.Text = obj.num1.ToString();
             obj.num2 = Convert.ToInt32(txtnum2.Text);
-            lblnum2.Text = obj.num2.ToString();
-
+            lblResult.Text = obj.Add().ToString();
 
         }
 
         private void btnMultiply_Click(object sender, EventArgs e)
         {
+            obj = new ArthmOpp();
+            obj.num1 = Convert.ToInt32(txtnum1.Text);
+            obj.num2 = Convert.ToInt32(txtnum2.Text);
 
+            lblResult.Text = obj.Multiply().ToString();
         }
 
         private void btnDivide_Click(object sender, EventArgs e)
         {
-
+            obj = new ArthmOpp();
+            obj.num1 = Convert.ToInt32(txtnum1.Text);
+            obj.num2 = Convert.ToInt32(txtnum2.Text);
+            lblResult.Text = obj.Divide().ToString();
         }
 
         private void btnModulo_Click(object sender, EventArgs e)
         {
-
+            obj = new ArthmOpp();
+            obj.num1 = Convert.ToInt32(txtnum1.Text);
+            obj.num2 = Convert.ToInt32(txtnum2.Text);
+            lblResult.Text = obj.Modulo().ToString();
         }
 
         private void lblnum1_Click(object sender, EventArgs e)
