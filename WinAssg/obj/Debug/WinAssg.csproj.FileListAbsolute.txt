@@ -1,0 +1,13 @@
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\bin\Debug\WinAssg.exe.config
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\bin\Debug\WinAssg.exe
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\bin\Debug\WinAssg.pdb
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\bin\Debug\ConAssgLib.dll
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\bin\Debug\ConAssgLib.pdb
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\obj\Debug\WinAssg.csprojAssemblyReference.cache
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\obj\Debug\WinAssg.Form1.resources
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\obj\Debug\WinAssg.Properties.Resources.resources
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\obj\Debug\WinAssg.csproj.GenerateResource.cache
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\obj\Debug\WinAssg.csproj.CoreCompileInputs.cache
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\obj\Debug\WinAssg.csproj.CopyComplete
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\obj\Debug\WinAssg.exe
+E:\FrontEND\DotNetConsole\WinAssg\WinAssg\obj\Debug\WinAssg.pdb
